@@ -46,6 +46,7 @@ repos:
       # Detects the presence of private keys
       - id: detect-private-key
 
+
   - repo: https://github.com/PyCQA/pylint
     rev: v3.0.0a6
     hooks:
